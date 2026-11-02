@@ -1,0 +1,4 @@
+sqlalchemy>=2
+streamlit
+pandas
+pydantic
